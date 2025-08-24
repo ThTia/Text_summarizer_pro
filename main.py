@@ -1,3 +1,2 @@
-from text_summarizer.logging import logger
-
-logger.info("Starting the text summarization application.") 
+from textsummarizer.logging import logger
+logger.info("Starting the application...")  
